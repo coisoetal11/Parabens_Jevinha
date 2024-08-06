@@ -1,0 +1,111 @@
+{ "sound_block_break": {
+  "subtitle": "sounds.parabensjevinha.sound_block_break",
+  "sounds": [
+    "parabensjevinha:sound_block_break"
+  ]
+},
+  "sound_block_step": {
+    "subtitle": "sounds.parabensjevinha.sound_block_step",
+    "sounds": [
+      "parabensjevinha:sound_block_step"
+    ]
+  },
+  "sound_block_place": {
+    "subtitle": "sounds.parabensjevinha.sound_block_place",
+    "sounds": [
+      "parabensjevinha:sound_block_place"
+    ]
+  },
+  "pluh": {
+    "subtitle": "sounds.parabensjevinha.pluh",
+    "sounds": [
+      "parabensjevinha:pluh"
+    ]
+  },
+  "sound_block_fall": {
+    "subtitle": "sounds.parabensjevinha.sound_block_fall",
+    "sounds": [
+      "parabensjevinha:sound_block_fall"
+    ]
+  },
+
+  "sound_block_hit": {
+    "subtitle": "sounds.parabensjevinha.sound_block_hit",
+    "sounds": [
+      "parabensjevinha:sound_block_hit"
+    ]
+  },
+  "lonely_andre_version": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:lonely_andre_version",
+        "stream": true
+      }
+    ]
+  },
+
+  "winter": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:winter",
+        "stream": true
+      }
+    ]
+  },
+  "505": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:505",
+        "stream": true
+      }
+    ]
+  },
+  "erika": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:erika",
+        "stream": true
+      }
+    ]
+  },
+  "funk_do_bagatata": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:funk_do_bagatata",
+        "stream": true
+      }
+    ]
+  },
+  "montagem_mysterious_game": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:montagem_mysterious_game",
+        "stream": true
+      }
+    ]
+  },
+  "one_kiss": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:one_kiss",
+        "stream": true
+      }
+    ]
+  },
+  "urss": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:urss",
+        "stream": true
+      }
+    ]
+  },
+  "wanna_be_yours": {
+    "sounds": [
+      {
+        "name": "parabensjevinha:wanna_be_yours",
+        "stream": true
+      }
+    ]
+  }
+}

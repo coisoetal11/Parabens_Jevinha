@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "parabensjevinha:block/banca_peixe_top",
+    "side": "parabensjevinha:block/banca_peixe"
+  }
+}
